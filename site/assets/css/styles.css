@@ -248,7 +248,7 @@ html { scrollbar-color: #3a4048 var(--ink); }
   .hero-slogan span { white-space: nowrap; }
   .hero-slogan::before, .hero-slogan::after { width: 1.25rem; }
   .hero-actions { width: 100%; }
-  .hero-actions .btn { flex: 1 1 200px; }
+  .hero-actions .btn { flex: 1 1 200px; white-space: nowrap; }
 }
 
 /* ---------- Franja del lema: negro y blanco, se "construye" al entrar ---------- */
