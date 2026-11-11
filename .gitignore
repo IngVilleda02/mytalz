@@ -1,0 +1,10 @@
+# Originales pesados y material de trabajo (no se publican)
+/Img/
+/Fotos-trabajos/
+/*.docx
+
+# Configuración local
+/.claude/
+.vercel/
+Thumbs.db
+desktop.ini
